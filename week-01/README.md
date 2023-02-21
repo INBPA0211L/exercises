@@ -1,8 +1,9 @@
-# Week #01
+# Week #01 and Week #02
 
 ## Topics
 
-The environment (`gcc` compiler, VS Code), Hello World, basic language elements (types, variables, expressions, types, control statements).
+* The environment (gcc compiler, VS Code), Hello World, basic language elements (types, variables, expressions, types, control statements).
+* Functions for handling standard I/O, common formats, practice.
 
 ## Exercises
 
