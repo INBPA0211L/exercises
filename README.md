@@ -12,3 +12,5 @@ This repository contains exercises for subject *High-level programming languages
 1. Practice.
 1. Ability test.
 1. [Multidimensional arrays, command-line arguments.](./week-08/README.md)
+1. Spring break.
+2. [Structures, defining own types, `qsort()`, `bsearch()`.](./week-10/README.md)
